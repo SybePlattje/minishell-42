@@ -10,7 +10,7 @@ My minishell partner was <a href="https://github.com/MerelVanEssen/42-Minishell"
 - Shell
 
 ## Installation
-Git clone https://github.com/MerelVanEssen/42-Minishell.git minishell <br>
+Git clone https://github.com/SybePlattje/minishell-42.git <br>
 cd minishell <br>
 make <br>
 ./minishell <br>
